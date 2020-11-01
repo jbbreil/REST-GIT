@@ -4,7 +4,7 @@
 
 ## REST-webbtjänst
 
-Första fas av webbplatsprojekt här ligger: Gulp-konfiguration, REST-webbtjänst, Fetch API, Javascript-, Klass-, PHP- och SASS-filer. 
+Första fas av webbplatsprojekt här ligger: konfiguration-fil, REST-webbtjänst och Klass-filer. 
 
 ### 1.1 Sätt upp databasen via SQL-fråga:
 
@@ -67,6 +67,6 @@ git clone https://github.com/jbbreil/REST-GIT.git
 
 ### 3. Initialisering konsol kommando:
 
-1. npm install --save --dev
+1. npm install 
 
-2. gulp
+### 4. Använd Postmat app för att testa webbtjänsten. 
